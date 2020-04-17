@@ -13,8 +13,4 @@ export default Vue.extend({
 </script>
 
 <style>
-main {
-  margin-left: 5rem;
-  padding: 1rem;
-}
 </style>

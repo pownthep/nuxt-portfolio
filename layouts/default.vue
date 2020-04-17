@@ -8,7 +8,7 @@
 <style>
 :root {
   font-size: 16px;
-  font-family:'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
   --text-primary: #b6b6b6;
   --text-secondary: #ececec;
   --bg-primary: #23232e;
@@ -35,11 +35,6 @@ body::-webkit-scrollbar-thumb {
   background: #6649b8;
 }
 
-main {
-  margin-left: 5rem;
-  padding: 1rem;
-}
-
 .navbar {
   position: fixed;
   background-color: var(--bg-primary);
@@ -61,7 +56,6 @@ main {
 }
 
 .nav-item:last-child {
-  
 }
 
 .nav-link {
@@ -161,6 +155,7 @@ main {
 
   main {
     margin: 0;
+    text-align: center;
   }
 }
 
@@ -186,6 +181,11 @@ main {
 
   .navbar:hover .logo-text {
     left: 0px;
+  }
+  main {
+    margin-left: 5rem;
+    padding: 1rem;
+    text-align: center;
   }
 }
 
@@ -224,12 +224,6 @@ main {
 
 .solar #solarIcon {
   display: block;
-}
-
-main {
-  margin-left: 5rem;
-  padding: 1rem;
-  text-align: center;
 }
 </style>
 <script lang="ts">
