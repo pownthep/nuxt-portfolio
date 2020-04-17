@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>Hello world</h1>
+    <h1>NodeJS</h1>
   </main>
 </template>
 
@@ -13,8 +13,5 @@ export default Vue.extend({
 </script>
 
 <style>
-main {
-  margin-left: 5rem;
-  padding: 1rem;
-}
+
 </style>
