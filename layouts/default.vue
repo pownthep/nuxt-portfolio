@@ -104,6 +104,13 @@ main {
   transition: var(--transition-speed);
 }
 
+.nav-link .angular {
+  transition: var(--transition-speed);
+}
+
+.nav-link:hover .angular {
+  color: #c3002f;
+}
 .logo {
   font-weight: bold;
   text-transform: uppercase;

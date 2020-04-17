@@ -45,6 +45,7 @@
             <path
               fill="currentColor"
               d="M185.7 268.1h76.2l-38.1-91.6-38.1 91.6zM223.8 32L16 106.4l31.8 275.7 176 97.9 176-97.9 31.8-275.7zM354 373.8h-48.6l-26.2-65.4H168.6l-26.2 65.4H93.7L223.8 81.5z"
+              class="angular"
             />
           </svg>
           <span class="link-text">Angular</span>
@@ -64,7 +65,7 @@
             viewBox="0 0 448 512"
           >
             <path
-              fill="currentColor"
+              fill="#41b883"
               d="M356.9 64.3H280l-56 88.6-48-88.6H0L224 448 448 64.3h-91.1zm-301.2 32h53.8L224 294.5 338.4 96.3h53.8L224 384.5 55.7 96.3z"
             />
           </svg>
@@ -97,7 +98,7 @@
           <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <title />
             <path
-            fill="currentColor"
+            fill="#45d1fd"
               d="M14.314 0L2.3 12 6 15.7 21.684.012h-7.357L14.314 0zm.014 11.072l-6.471 6.457 6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.371z"
             />
           </svg>
