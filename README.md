@@ -1,8 +1,6 @@
-# pownthep
+# 📗 Portfolio powered by Nuxt.js
 
-> My coding projects portfolio/showcase.
-
-## Build Setup
+## Get started
 
 ```bash
 # install dependencies
